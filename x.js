@@ -1,1 +1,4 @@
-alert(xss);
+function x(){
+  alert(xss);
+}
+//alert(xss);
